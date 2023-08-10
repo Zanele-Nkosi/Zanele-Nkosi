@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Zanele Nkosi
-====================================================================================================================================
+Hi 👋 My name is Zanele Nkosi
+=============================
 
 I'm a Passionate Front-end JavaScript React Developer
 -----------------------------------------------------
@@ -8,7 +8,7 @@ SheCodes Student | JavaScript and React Enthusiast| Homebody | Foodie
 
 * 🌍  I'm based in Nelspruit, South Africa
 * ✉️  You can contact me at [Zanelemail4@gmail.com](mailto:Zanelemail4@gmail.com)
-* 🧠  I'm learning JavaScript, React JS
+* 🧠  I'm learning JavaScript, React JS @ SheCodes Foundation
 * ⚡  I love reading and writing
 
 ### Skills
