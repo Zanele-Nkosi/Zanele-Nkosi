@@ -4,7 +4,7 @@ Hi 👋 My name is Zanele Nkosi
 I'm a Passionate Front-end JavaScript React Developer
 -----------------------------------------------------
 
-SheCodes Student | JavaScript and React Enthusiast| Homebody | Foodie
+Self Taught Developer | JavaScript and React Enthusiast| Homebody | Foodie
 
 * 🌍  I'm based in Nelspruit, South Africa
 * ✉️  You can contact me at [Zanelemail4@gmail.com](mailto:Zanelemail4@gmail.com)
